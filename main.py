@@ -1,1 +1,0 @@
-print("Gesture Controller is running...")

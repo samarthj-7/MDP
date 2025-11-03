@@ -1,2 +1,0 @@
-# MDP
-Gesture control
